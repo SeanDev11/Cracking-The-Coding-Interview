@@ -22,4 +22,34 @@ Ex. 7:
   1,2,3
   
 Ex. 8:
+  arrayLen * longestStr (Log(arrrayLen) + Log(longestStr))
+  
+Ex. 9:
+  O(N)
+  
+Ex. 10:
+  O(N^1/2)
+
+Ex. 11:
+  0(N)
+  
+Ex. 12:
+    O((N+2)!)
+  
+Ex. 13:
+  O(2^N)
+
+Ex. 14:
+  O(2^N)
+
+Ex. 15:
+
+
+Ex. 16:
+
+  
+  
+  
+  
+  
   
