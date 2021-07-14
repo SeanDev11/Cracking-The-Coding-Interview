@@ -1,7 +1,7 @@
 // 1.5 One Away
 // Brute Force
 
-// Q: Given a string, write a funciton to check if it is a permutation of a palindrome.
+// Q: Given two strings write a function to check whether they are 0 or 1 edits away from being equal.
 // Assuming that str1 is the bigger/base string
 #include <iostream>
 #include <string>
